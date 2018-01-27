@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# In[2]:
-
-
 def game_start():
     
     global p1_name
